@@ -4,6 +4,7 @@
     <list default="true" id="27f4ddce-6343-474b-a2f1-39934d80d3e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +70,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="60" key="CommitChangelistDialog2" timestamp="1644235326559">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="343" y="55" key="CommitChangelistDialog2" timestamp="1646129231045">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="343" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1643976039390" />
+    <state x="343" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1646129231045" />
     <state x="343" y="60" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1644235326559" />
     <state x="373" y="140" key="NewModule_or_Project.wizard" timestamp="1645457343380">
       <screen x="0" y="23" width="1440" height="827" />
